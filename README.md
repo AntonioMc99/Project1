@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - REST Countries API with color theme switcher
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](preview.jpg)
@@ -98,3 +99,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Project1
+>>>>>>> ea167ca7112ef5cfca893de362ff11be2d418693
