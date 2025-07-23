@@ -50,7 +50,7 @@ async function lookUpIP(ipAddress) {
     } else {
       thePin = L.marker([x, y]).addTo(theMap);
     }
-    // ssecurity system
+
   } catch (problem) {
     alert("WRONG TRY AGAIN?");
     console.log(problem);
